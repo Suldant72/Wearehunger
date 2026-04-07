@@ -1,0 +1,23 @@
+{
+  "title": "Ingles",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "2": {
+      "title": "",
+      "last_updated": "1775570244",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2x85a84l"
+      }
+    },
+    "1": {
+      "title": "",
+      "last_updated": "1775570270",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqmrpxk72"
+      }
+    }
+  }
+}
